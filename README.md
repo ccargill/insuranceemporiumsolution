@@ -10,6 +10,7 @@ The generated CSV is named payroll_dates.csv and is located in the root director
 <ul>
 <li>Takes into account weekends</li>
 <li>Queries gov webstie API for national holidays</li>
+    <li>Easily automated using current date and up to date API</li>
 </ul> 
 
 ## Technical
